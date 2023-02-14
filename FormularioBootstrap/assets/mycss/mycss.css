@@ -1,0 +1,23 @@
+.miclase{
+    background-color: rgb(101, 90, 168);
+   
+}
+.centrar{
+    margin: 0 auto;
+	width: 90%;
+	max-width: 1200px;
+}
+
+.carta{
+    margin: 0 auto;
+	width: 90%;
+	max-width: 1200px;
+    background-color: rgb(255, 247, 238);
+}
+
+.form-label{
+    border-color: blue;
+}
+.pfoo{
+    padding-top: 0.65em;
+}
